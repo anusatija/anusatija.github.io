@@ -87,22 +87,24 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h3>ANDROID</h3>
+              <h4>Native Mobile Solutions</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+                Crafting high-performance, scalable Android applications with
+                Kotlin and modern architecture. Expert in building
+                production-ready solutions for fintech, ed-tech, and e-commerce.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">React.js</div>
-                <div className="what-tags">Angular</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Material UI</div>
-                <div className="what-tags">HTML5</div>
-                <div className="what-tags">CSS3</div>
+                <div className="what-tags">Kotlin</div>
+                <div className="what-tags">Coroutines</div>
+                <div className="what-tags">Jetpack</div>
+                <div className="what-tags">Dagger/Hilt</div>
+                <div className="what-tags">MVVM</div>
+                <div className="what-tags">Clean Arch</div>
+                <div className="what-tags">Firebase</div>
+                <div className="what-tags">Retrofit</div>
+                <div className="what-tags">Room</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -126,22 +128,23 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BACKEND</h3>
-              <h4>Scalable Server Architecture</h4>
+              <h3>ARCHITECTURE</h3>
+              <h4>Scalable Enterprise Solutions</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
-                complex business logic, I build backends that scale.
+                Designing robust mobile architectures and integrating complex
+                APIs. From secure payment processing to automated ed-tech
+                workflows, I build systems that scale.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">NestJS</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">PostgreSQL</div>
                 <div className="what-tags">REST APIs</div>
                 <div className="what-tags">Microservices</div>
-                <div className="what-tags">Python</div>
+                <div className="what-tags">CI/CD</div>
+                <div className="what-tags">Unit Testing</div>
+                <div className="what-tags">Optimization</div>
+                <div className="what-tags">Play Console</div>
+                <div className="what-tags">Git</div>
+                <div className="what-tags">Agile</div>
               </div>
               <div className="what-arrow"></div>
             </div>
