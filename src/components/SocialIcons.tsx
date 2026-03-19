@@ -5,7 +5,7 @@ import {
   FaXTwitter,
 } from "react-icons/fa6";
 import "./styles/SocialIcons.css";
-import { TbNotes } from "react-icons/tb";
+import { MdDownload } from "react-icons/md";
 import { useEffect } from "react";
 import HoverLinks from "./HoverLinks";
 
@@ -60,30 +60,20 @@ const SocialIcons = () => {
     <div className="icons-section">
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
-          <a href="https://github.com/rajeshchityal" target="_blank">
+          <a href="https://github.com/anusatija" target="_blank">
             <FaGithub />
           </a>
         </span>
         <span>
-          <a href="https://www.linkedin.com/in/rajeshchityal" target="_blank">
+          <a href="https://in.linkedin.com/in/annu-satija-148190162" target="_blank">
             <FaLinkedinIn />
           </a>
         </span>
-        <span>
-          <a href="https://x.com/rajeshchityal" target="_blank">
-            <FaXTwitter />
-          </a>
-        </span>
-        <span>
-          <a href="https://www.instagram.com/rajeshchityal" target="_blank">
-            <FaInstagram />
-          </a>
-        </span>
       </div>
-      <a className="resume-button" href="#">
-        <HoverLinks text="RESUME" />
+      <a className="resume-button" href="/files/annu_satija_cv.pdf" target="_blank" rel="noopener noreferrer">
+        <HoverLinks text="DOWNLOAD CV" />
         <span>
-          <TbNotes />
+          <MdDownload />
         </span>
       </a>
     </div>

@@ -18,7 +18,7 @@ const Career = () => {
                 <h4>Sr. Android Developer</h4>
                 <h5>BOS Pvt. Ltd.</h5>
               </div>
-              <h3>2025</h3>
+              <h3>2026</h3>
             </div>
             <p>
               Developed fintech applications (aCashPay App, OQ PAY) focusing on secure payments processing, mobile/DTH recharge, and retail finance flows including EMI management.
