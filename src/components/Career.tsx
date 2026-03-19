@@ -15,43 +15,61 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Sr. Android Developer</h4>
+                <h5>BOS Pvt. Ltd.</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Developed fintech applications (aCashPay App, OQ PAY) focusing on secure payments processing, mobile/DTH recharge, and retail finance flows including EMI management.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Sr. Android Developer</h4>
+                <h5>Cre Innovations</h5>
+              </div>
+              <h3>2023</h3>
+            </div>
+            <p>
+              Led development of high-performance image processing apps including "Text on Video" and "Cartoon Caricature", optimizing feature implementations for end-user creativity workflows.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Sr. Android Developer</h4>
+                <h5>Clara Edtech Pvt. Ltd.</h5>
               </div>
               <h3>2021</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Designed and maintained multiple EdTech Android applications with modules for student attendance, results, fees, and push notifications utilizing Firebase Cloud Messaging (FCM).
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Android Developer</h4>
+                <h5>MyLyfCare Pvt. Ltd.</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2020</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Developed full-stack MedTech features spanning across vendor inventory, transaction processing, and automated appointment workflows for doctors and diagnostic labs.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Android Developer</h4>
+                <h5>Mindsmiratus Technologies</h5>
+              </div>
+              <h3>2018</h3>
+            </div>
+            <p>
+              Delivered end-to-end Android development for client projects like Wafi and Logimetrix Infra, implementing REST APIs using Volley and maintaining regular broadcast updates.
             </p>
           </div>
         </div>
